@@ -1,0 +1,45 @@
+_repo: Thoughts-on-the-Education-of-Daughters-With-Reflections-on-Female-Conduct-in-the-More-Importa__67466
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wollstonecraft, Mary
+    aliases:
+    - Godwin, Mary Wollstonecraft
+    - Cresswick, Mr.
+    birthdate: 1759
+    deathdate: 1797
+    gutenberg_agent_id: '84'
+    url: http://www.gutenberg.org/2009/agents/84
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Wollstonecraft
+description: ''
+gutenberg_issued: '2022-02-21'
+identifiers:
+  gutenberg: '67466'
+  lccn: '18011740'
+language: en
+pgterms:marc904: https://archive.org/details/thoughtsoneduca00unkngoog
+pgterms:marc905: 20200301112551wollstonec
+pgterms:marc906: '1787'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :J. Johnson,1787.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Social and moral questions'
+- !lcc 'HQ'
+- !lcsh 'Young women'
+- !lcsh 'Women -- Conduct of life'
+- GITenberg
+tableOfContents: The nursery -- Moral discipline -- Exterior accomplishments -- Artificial
+  manners -- Dress -- The fine arts -- Reading -- Boarding-schools -- The temper --
+  Unfortunate situation of females, fashionably educated, and left without a fortune
+  -- Love -- Matrimony -- Desultory thoughts -- The benefits which arise from disappointments
+  -- On the treatment of servants -- The observance of Sunday -- On the misfortune
+  of fluctuating principles -- Benevolence -- Card-playing -- The theatre -- Public
+  places.
+title: "Thoughts on the Education of Daughters\r\nWith Reflections on Female Conduct,\
+  \ in the More Important Duties of Life"
+url: http://www.gutenberg.org/ebooks/67466
